@@ -1,0 +1,5 @@
+---
+# tasks file for hello_world
+- name: Print epic hello world
+  debug:
+    msg: Epic hello, world!
